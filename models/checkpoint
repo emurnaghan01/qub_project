@@ -1,0 +1,2 @@
+model_checkpoint_path: "EdLeNet_3x3_Color_Sample.chkpt"
+all_model_checkpoint_paths: "EdLeNet_3x3_Color_Sample.chkpt"
